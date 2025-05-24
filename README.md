@@ -18,7 +18,7 @@
 ![Screenshot from 2025-05-24 15-10-25](https://github.com/user-attachments/assets/f0d8cebc-a144-4cce-903d-d0f49b814ff4)
 ## ------------------------------------------------------------------------------------------------------------
 
-## Monitoring the alerts using Tail -f command on fast.log file
+## Monitoring the alerts using "Tail -f" command on fast.log file or we can use "cat" command
 
 ![Screenshot from 2025-05-24 15-42-36](https://github.com/user-attachments/assets/c460ac7e-e3ed-4a7d-9473-16651673a7ef)
 ## ------------------------------------------------------------------------------------------------------------
