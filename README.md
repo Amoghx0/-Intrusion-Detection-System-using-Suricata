@@ -1,4 +1,5 @@
 # -Intrusion-Detection-System-using-Suricata
+<img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 
 ## Objective
 ### The goal of setting up a Suricata home-lab is to gain practical experience in deploying and configuring an Intrusion Detection System (IDS) for network security monitoring. Suricata is an open-source IDS capable of detecting and preventing various network-based threats. This home-lab provides hands-on experience in setting up, configuring, and utilizing Suricata to enhance network security.
