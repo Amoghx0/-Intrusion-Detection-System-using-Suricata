@@ -13,7 +13,7 @@
 
 ![Screenshot from 2025-05-24 14-37-36](https://github.com/user-attachments/assets/d10cf80a-bde1-498e-9a5e-1a42d496372e)
 ## ------------------------------------------------------------------------------------------------------------
-## Configuring the suricata.yaml file to allow the alerts
+## Configuring the suricata.yaml file to allow the alerts on the machine
 
 ![Screenshot from 2025-05-24 15-10-25](https://github.com/user-attachments/assets/f0d8cebc-a144-4cce-903d-d0f49b814ff4)
 ## ------------------------------------------------------------------------------------------------------------
