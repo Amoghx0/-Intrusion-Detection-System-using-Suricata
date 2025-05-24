@@ -4,10 +4,10 @@
 ### The goal of setting up a Suricata home-lab is to gain practical experience in deploying and configuring an Intrusion Detection System (IDS) for network security monitoring. Suricata is an open-source IDS capable of detecting and preventing various network-based threats. This home-lab provides hands-on experience in setting up, configuring, and utilizing Suricata to enhance network security.
 
 ## Skills Learned
-### Learned to detect network attacks for e.g. port scans, brute force, malware signatures using Suricata.
-### Configured suricata.yaml, defined interfaces, enabled logging modules FAST.LOG and Eve JSON to monitor the traffic.
-### Integrate Emerging Threats ruleset for detection.
-### Gained experience with Linux command-line tools, networking fundamentals, and system monitoring.
+- Learned to detect network attacks for e.g. port scans, brute force, malware signatures using Suricata.
+- Configured suricata.yaml, defined interfaces, enabled logging modules FAST.LOG and Eve JSON to monitor the traffic.
+- Integrate Emerging Threats ruleset for detection.
+- Gained experience with Linux command-line tools, networking fundamentals, and system monitoring.
 
 ## Installing Emerging Threat Rule-set
 
